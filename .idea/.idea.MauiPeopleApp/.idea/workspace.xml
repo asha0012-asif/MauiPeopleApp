@@ -15,18 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3f677d6-f0bb-4aa0-99b5-f96ec4bd3d6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MauiPeopleApp/ViewModels/LoginViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MauiPeopleApp/Views/LoginPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MauiPeopleApp/Views/LoginPage.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MauiPeopleApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MauiPeopleApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MauiPeopleApp/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/App.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MauiPeopleApp/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MauiPeopleApp/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/AppShell.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MauiPeopleApp/AppShell.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/AppShell.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MauiPeopleApp/MauiPeopleApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/MauiPeopleApp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MauiPeopleApp/Platforms/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/Platforms/Android/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MauiPeopleApp/Platforms/Android/MainActivity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/Platforms/Android/MainActivity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MauiPeopleApp/Platforms/iOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/Platforms/iOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MauiPeopleApp/Resources/AppIcon/appicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/MauiPeopleApp/Resources/AppIcon/appicon.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file:///usr/local/share/dotnet/packs/Microsoft.Android.Sdk.Darwin/35.0.61/tools/Xamarin.Android.Aapt2.targets" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -101,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1754875655130</updated>
       <workItem from="1754875656222" duration="4357000" />
-      <workItem from="1754880083081" duration="7317000" />
+      <workItem from="1754880083081" duration="9531000" />
     </task>
     <servers />
   </component>
